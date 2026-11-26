@@ -1,12 +1,12 @@
-# Mini Golf
+# Mini-Golf
 
 **Huit trous, direction, puissance et score au par.**
 
-Mini Golf propose huit trous de difficulté progressive, du green large au parcours à portes mobiles. Réglez l'angle de visée et la puissance, puis puttez : la balle roule, rebondit sur les rails, ralentit dans le sable et tombe dans l'eau avec un coup de pénalité. La carte de score suit les coups, le par et le résultat trou par trou ; le total au par donne la performance de la partie. Sons synthétisés dans le navigateur, plein écran et commandes tactiles.
+Mini-Golf propose huit trous de difficulté progressive, du green large au parcours à portes mobiles. Réglez l'angle de visée et la puissance, puis puttez : la balle roule, rebondit sur les rails, ralentit dans le sable et tombe dans l'eau avec un coup de pénalité. La carte de score suit les coups, le par et le résultat trou par trou ; le total au par donne la performance de la partie. Sons synthétisés dans le navigateur, plein écran et commandes tactiles.
 
 Joue ici : [games.hylst.fr/mini-golf/](https://games.hylst.fr/mini-golf/)
 
-![Mini Golf](public/og-image.png)
+![Mini-Golf](public/og-image.png)
 
 ## Fonctionnalités
 
