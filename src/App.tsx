@@ -962,7 +962,7 @@ export default function App() {
               className="h-full min-h-[390px] w-full select-none touch-none rounded-[1.45rem] border border-lime-200/20 bg-[#1a602d] shadow-inner shadow-black/50"
               viewBox={`0 0 ${WIDTH} ${HEIGHT}`}
               role="img"
-              aria-label="Mini golf interactif"
+              aria-label="Mini-Golf interactif"
               onPointerDown={handlePointerDown}
               onPointerMove={handlePointerMove}
               onPointerUp={handlePointerUp}
